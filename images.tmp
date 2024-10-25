@@ -1,0 +1,8 @@
+nginx
+centos
+alpine
+#支持私库
+gitlab/gitlab-ce:17.3.6-ce.0
+xhofe/alist:latest
+#支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
