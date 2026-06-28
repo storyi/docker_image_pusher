@@ -1,1 +1,4 @@
-node:14.18.3-alpine
+node:14.18.3
+node:25.9.0
+node:26.4.0
+node:18.20
