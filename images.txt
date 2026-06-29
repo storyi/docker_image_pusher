@@ -1,4 +1,3 @@
-node:14.18.3
-node:25.9.0
-node:26.4.0
-node:18.20
+prom/prometheus:v3.5.4
+prom/node-exporter:v1.11.1
+grafana/grafana:11.6.16
