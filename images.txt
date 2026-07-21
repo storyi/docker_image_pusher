@@ -1,3 +1,2 @@
-minio/minio:RELEASE.2024-12-18T13-15-44Z
-minio/minio:RELEASE.2025-09-07T16-13-09Z
-milvusdb/milvus:v3.0-beta
+easysoft/zentao:22.3
+easysoft/zentao:22.3-20260707
