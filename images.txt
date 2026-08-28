@@ -1,1 +1,1 @@
-openclaw/openclaw:2026.8.1-beta.3-browser
+mysql:5.7.44
