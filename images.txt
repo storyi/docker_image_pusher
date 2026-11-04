@@ -1,1 +1,1 @@
-mysql:5.7.44
+docker pull 1panel/cordys-crm:v1.9.6
