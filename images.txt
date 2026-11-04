@@ -1,1 +1,1 @@
-docker pull 1panel/cordys-crm:v1.9.6
+1panel/cordys-crm:v1.9.6
