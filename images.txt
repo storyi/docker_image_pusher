@@ -1,1 +1,4 @@
-node:16.19.1
+prom/prometheus:v3.16.0
+grafana/grafana:13.1
+prom/node-exporter:v1.12.1
+prom/node-exporter:v1.8.2
